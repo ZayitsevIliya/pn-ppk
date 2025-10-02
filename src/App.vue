@@ -1,12 +1,12 @@
 <script setup lang="ts">
-import FinderMissingNumber from '@/components/TheFinderMissingNumber.vue'
-import BracketsBalidation from '@/components/TheBracketsValidation.vue'
+import BracketsValidation from '@/components/TheBracketsValidation.vue'
+import FinderMissingNumber from '@/components/TheFinderMissingNumber .vue'
 </script>
 
 <template>
   <article class="content">
+    <BracketsValidation />
     <FinderMissingNumber />
-    <BracketsBalidation />
   </article>
 </template>
 

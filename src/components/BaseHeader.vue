@@ -19,10 +19,9 @@ header {
 
 h1 {
   margin: 0;
-  padding-top: 1em;
 
   height: 60px;
 
-  font-size: 32px;
+  font-size: 64px;
 }
 </style>
